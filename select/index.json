@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "何度でも",
+  "base_artist": "DREAMS COME TRUE",
+  "createdAt": "2026-01-12T05:11:41.534623Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "何度でも",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/01_何度でも_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "何度でも",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/02_何度でも_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "何度でも",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/03_何度でも_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "何度でも",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/04_何度でも_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "何度でも – DOSCO prime Version –",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/05_何度でも_–_DOSCO_prime_Version_–_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "何度でも - Nandodemo",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/06_何度でも_-_Nandodemo_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "何度でも - DOSCO prime Version",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/07_何度でも_-_DOSCO_prime_Version_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "何度でも",
+      "artist": "Crystal Kay",
+      "has_synced": true,
+      "path": "select/08_何度でも_Crystal_Kay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "何度でも",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/09_何度でも_Ms.OOJA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "何度でも - Nando De Mo",
+      "artist": "Crystal Kay",
+      "has_synced": true,
+      "path": "select/10_何度でも_-_Nando_De_Mo_Crystal_Kay.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "何度でも - Nandodemo",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/11_何度でも_-_Nandodemo_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "何度でも(album version)",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/12_何度でも(album_version)_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nando Demo (何度でも)",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/13_Nando_Demo_(何度でも)_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "何度でも",
+      "artist": "sayaka yamamoto",
+      "has_synced": true,
+      "path": "select/14_何度でも_sayaka_yamamoto.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "何度でも (Music Box Ver.)",
+      "artist": "Dreams Come True",
+      "has_synced": false,
+      "path": "select/15_何度でも_(Music_Box_Ver.)_Dreams_Come_True.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "何度でも",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": false,
+      "path": "select/pl_01_何度でも_DREAMS_COME_TRUE.txt"
+    }
+  ]
+}
